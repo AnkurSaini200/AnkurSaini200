@@ -146,19 +146,29 @@
 
 <!-- ==================== ANIMATION ============================ -->
 
+<!-- ==================== GITHUB CONTRIBUTIONS ==================== -->
+
+<h2>🐍 GitHub Contributions</h2>
+
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake-dark.svg"
     />
+
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake.svg"
     />
+
     <img
       src="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake.svg"
       alt="GitHub Contribution Snake"
+      width="100%"
     />
   </picture>
 </p>
+
+<br>
+<br>
