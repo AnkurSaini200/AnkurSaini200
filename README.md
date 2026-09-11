@@ -146,11 +146,19 @@
 
 <!-- ==================== ANIMATION ============================ -->
 
-<h2>🟡 Pac-Man Contribution Graph</h2>
-
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/pacman-contribution-graph.svg"
-    alt="Pac-Man Contribution Graph"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
