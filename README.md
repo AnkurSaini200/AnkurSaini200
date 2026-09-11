@@ -5,11 +5,12 @@
 </h4>
 
 <p align="center">
-  Building full-stack applications, exploring cybersecurity,
+  Building full-stack applications, exploring cybersecurity,<br>
   and learning how systems work from both sides
 </p>
-<br>
 
+<br>
+<br>
 <br>
 
 <!-- ==================== TECH STACK ==================== -->
@@ -18,55 +19,58 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="60" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redux" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=spring" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=bash" width="60" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=npm" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=opencv" width="60" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=jwt" width="60" />
 </p>
+
+<br>
+<br>
 
 <!-- ==================== GITHUB CONTRIBUTIONS ==================== -->
 
@@ -86,18 +90,8 @@
   />
 </p>
 
-<!-- ==================== RANDOM DEV QUOTE ==================== -->
-
-<hr>
-
-<h3 align="left">Random Dev Quote</h3>
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-    alt="Random Dev Quote"
-  />
-</p>
+<br>
+<br>
 
 <!-- ==================== CONNECT WITH ME ==================== -->
 
@@ -131,4 +125,31 @@
       alt="Instagram"
     />
   </a>
+</p>
+
+<br>
+<br>
+
+<!-- ==================== RANDOM DEV QUOTE ==================== -->
+
+<hr>
+
+<h3 align="left">Random Dev Quote</h3>
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Random Dev Quote"
+  />
+</p>
+
+<!-- ==================== ANIMATION ============================ -->
+
+<h2>GitHub Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
