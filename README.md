@@ -99,6 +99,8 @@
 
 <h3 align="left">Random Dev Quote</h3>
 
+<br>
+
 <p align="center">
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
@@ -106,8 +108,6 @@
   />
 </p>
 
-<br>
-<br>
 
 <!-- ==================== CONNECT WITH ME ==================== -->
 
