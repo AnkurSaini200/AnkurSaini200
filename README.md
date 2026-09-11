@@ -93,6 +93,23 @@
 <br>
 <br>
 
+<!-- ==================== RANDOM DEV QUOTE ==================== -->
+
+<hr>
+
+<h3 align="left">Random Dev Quote</h3>
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Random Dev Quote"
+  />
+</p>
+
+
+<br>
+<br>
+
 <!-- ==================== CONNECT WITH ME ==================== -->
 
 <hr>
@@ -127,29 +144,13 @@
   </a>
 </p>
 
-<br>
-<br>
-
-<!-- ==================== RANDOM DEV QUOTE ==================== -->
-
-<hr>
-
-<h3 align="left">Random Dev Quote</h3>
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-    alt="Random Dev Quote"
-  />
-</p>
-
 <!-- ==================== ANIMATION ============================ -->
 
-<h2>GitHub Contributions</h2>
+<h2>🟡 Pac-Man Contribution Graph</h2>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/contribution-graph.svg"
-    alt="GitHub Tetris Contribution Animation"
+    src="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/pacman-contribution-graph.svg"
+    alt="Pac-Man Contribution Graph"
   />
 </p>
