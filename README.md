@@ -147,8 +147,6 @@
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-<h2>🐍 GitHub Contribution Snake</h2>
-
 <p align="center">
   <picture>
     <source
