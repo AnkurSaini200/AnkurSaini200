@@ -4,6 +4,25 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### ✍️ Random Dev Quote
+<p align="Center">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
+
+
+<!-- ==================== TECH STACK ==================== -->
+
+<h2>Languages & Tools</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css,react,redux,reactnative,spring,tailwind,docker,git,github,linux,bash,aws,mysql,mongodb,postgresql,npm,opencv,jwt&perline=8"
+  />
+</p>
+
+
+---
+[![](https://komarev.com/ghpvc/?username=AnkurSaini200&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- ==================== CONNECT WITH ME ==================== -->
 
@@ -46,21 +65,3 @@
   </a>
 
 </p>
-
-
-
-<!-- ==================== TECH STACK ==================== -->
-
-<h2>Languages & Tools</h2>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css,react,redux,reactnative,spring,tailwind,docker,git,github,linux,bash,aws,mysql,mongodb,postgresql,npm,opencv,jwt&perline=8"
-  />
-</p>
-
-
----
-[![](https://komarev.com/ghpvc/?username=AnkurSaini200&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
