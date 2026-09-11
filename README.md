@@ -149,7 +149,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/contribution-graph.svg"
+    alt="GitHub Tetris Contribution Animation"
   />
 </p>
