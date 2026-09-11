@@ -106,7 +106,6 @@
   />
 </p>
 
-
 <br>
 <br>
 
@@ -122,12 +121,14 @@
     />
   </a>
 
+  <!--
   <a href="https://x.com/spectre_1569" target="_blank">
     <img
       src="https://img.shields.io/badge/TWITTER-21262D?style=for-the-badge&logo=x&logoColor=white"
       alt="Twitter"
     />
   </a>
+  -->
 
   <a href="mailto:ankursaini200@gmail.com">
     <img
@@ -144,11 +145,9 @@
   </a>
 </p>
 
-<!-- ==================== ANIMATION ============================ -->
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-<!-- ==================== GITHUB CONTRIBUTIONS ==================== -->
-
-<h2>🐍 GitHub Contributions</h2>
+<h2>🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -156,12 +155,10 @@
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake.svg"
     />
-
     <img
       src="https://raw.githubusercontent.com/AnkurSaini200/AnkurSaini200/output/github-snake.svg"
       alt="GitHub Contribution Snake"
