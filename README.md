@@ -76,12 +76,12 @@
 
 <h2>GitHub Contributions</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=AnkurSaini200&theme=github-compact"
     alt="GitHub Contribution Graph"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
