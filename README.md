@@ -38,8 +38,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="60" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redux" width="60" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+ <!-- <img src="https://skillicons.dev/icons?i=redux" width="60" />
+  &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img src="https://skillicons.dev/icons?i=spring" width="60" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="60" />
