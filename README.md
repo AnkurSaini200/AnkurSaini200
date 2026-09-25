@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ankur Saini</h1>
 
 <h4 align="center">
-  Java Full Stack Developer | Offensive Security Enthusiast
+  Java Full Stack Developer | Offensive Security 
 </h4>
 
 <p align="center">
@@ -9,9 +9,39 @@
   and learning how systems work from both sides
 </p>
 
+<!-- ==================== CONNECT WITH ME ==================== -->
 <br>
-<br>
-<br>
+<p align="center">
+  <a href="https://linkedin.com/in/AnkurSaini200" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-21262D?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <!--
+  <a href="https://x.com/spectre_1569" target="_blank">
+    <img
+      src="https://img.shields.io/badge/TWITTER-21262D?style=for-the-badge&logo=x&logoColor=white"
+      alt="Twitter"
+    />
+  </a>
+  -->
+
+  <a href="mailto:ankursaini200@gmail.com">
+    <img
+      src="https://img.shields.io/badge/GMAIL-21262D?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://instagram.com/_ankur_1569" target="_blank">
+    <img
+      src="https://img.shields.io/badge/INSTAGRAM-21262D?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+</p>
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -95,9 +125,8 @@
 
 <!-- ==================== RANDOM DEV QUOTE ==================== -->
 
-<hr>
 
-<h3 align="left">Random Dev Quote</h3>
+<h2 align="left">Random Dev Quote</h2>
 
 <br>
 
@@ -109,41 +138,7 @@
 </p>
 
 
-<!-- ==================== CONNECT WITH ME ==================== -->
 
-<hr>
-
-<p align="center">
-  <a href="https://linkedin.com/in/AnkurSaini200" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-21262D?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <!--
-  <a href="https://x.com/spectre_1569" target="_blank">
-    <img
-      src="https://img.shields.io/badge/TWITTER-21262D?style=for-the-badge&logo=x&logoColor=white"
-      alt="Twitter"
-    />
-  </a>
-  -->
-
-  <a href="mailto:ankursaini200@gmail.com">
-    <img
-      src="https://img.shields.io/badge/GMAIL-21262D?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://instagram.com/_ankur_1569" target="_blank">
-    <img
-      src="https://img.shields.io/badge/INSTAGRAM-21262D?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-</p>
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
